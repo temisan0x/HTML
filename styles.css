@@ -1,3 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sender-column {
+  padding: 50px;
+}
+
+p {
+  font-size: 11px;
+}
+
 form {
   display: flex
 ;
